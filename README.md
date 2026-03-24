@@ -429,5 +429,5 @@ curl http://localhost:3000/api/tasks \
 curl -X DELETE http://localhost:3000/api/tasks/TASK_ID \
   -H "Authorization: Bearer TOKEN"
 ```
-#   S e c u r e - T a s k - M a n a g e r - A P I  
+ 
  
